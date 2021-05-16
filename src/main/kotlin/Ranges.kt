@@ -38,6 +38,7 @@ fun main(args:Array<String>) {
     for(range: Char in reverseRange){
         print(range)
     }
+
     //displaying the min ,max and average values using kotlin ranges.
     var r =(1..10)
     println(r.min())
